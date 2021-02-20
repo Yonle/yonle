@@ -2,9 +2,9 @@
 Some Javascript programmer just4fun
 
 ## Who am i
-Name: Yonle
-Gender: Male
-Country: Indonesia
+- Name: Yonle
+- Gender: Male
+- Country: Indonesia
 ## What do i do
 Coding at My phone, Yes. No need to ask. I'm [trolling](https://yonle.github.com/RickRoll.js/vid.mp4) to some people too.
 
