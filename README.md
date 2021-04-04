@@ -9,7 +9,7 @@ Some Javascript programmer just4fun
 - Gender: Male
 - Country: Indonesia
 ## What do i do
-Coding at My phone, Yes. No need to ask. I'm [trolling](https://yonle.github.com/RickRoll.js/vid.mp4) to some people too.
+Coding at My phone, and doing some weird stuff on it.
 
 ## Want to chat with me?
 Sure, If you want Chat me at Discord, Then [here](https://discord.gg/9S3ZCDR) you go.
