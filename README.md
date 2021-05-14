@@ -22,6 +22,6 @@
 The best and DA WAEEEE Jafwasehek Devhewopew awnd de vewy-fewy ***FWESH*** developew that yuw never - gonna - give - you - up - and - never - seen before. Yes, You're ***FWESH*** Too.
 
 Ya boi baba boi ye ya 
-<div width="92748273728362722837283737284728472837472874727372836472838">
+<div style="width: 92748273728362722837283737284728472837472874727372836472838;">
 WEEEEEEEEEEEEEEEEE
 </div>
