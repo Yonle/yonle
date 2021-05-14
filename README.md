@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<html>
+<body>
 <div align="center">
         <br>
         <img src="https://yonle.github.io/image.jpg" width="350px" loading="lazy">
@@ -32,3 +34,5 @@ Ya boi baba boi ye ya
 <div style="width: 92748273728362722837283737284728472837472874727372836472838;">
 <h1>WEEEEEEEEEEEEEEEEE</h1>
 </div>
+</body>
+</html>
