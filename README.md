@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <div align="center">
         <br>
         <img src="https://yonle.github.io/image.jpg" width="350px" loading="lazy">
