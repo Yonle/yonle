@@ -16,8 +16,14 @@
         <p>To see a fake 404 Page, Go <a href="404.html">here</a>.</p>
     </div>
 
+<!---
 
-<h1>                                Bonus</h1>
+      Ho leh shed, I see u want to edit the page.
+      shoooshhhh...... Shooooshhhh..... Shoooshhhh...
+      Why u still there? Go go shooooshhhhh..... Shooooshhhh
+
+--->
+
 # Fwesh Yonle
 The best and DA WAEEEE Jafwasehek Devhewopew awnd de vewy-fewy ***FWESH*** developew that yuw never - gonna - give - you - up - and - never - seen before. Yes, You're ***FWESH*** Too.
 
