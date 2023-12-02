@@ -3,7 +3,9 @@ Self taught developer from Indonesia. I create random stuffs and then publishing
 
 ## Where to find me
 - Telegram: [@yonlecoder](https://t.me/yonlecoder)
-- Fediverse: [yonle@fedi.lecturify.net](https://fedi.lecturify.net/users/yonle)
+- Fediverse: [yonle@lecturify.net](https://fedi.lecturify.net/users/yonle)
+- XMPP: yonle@lecturify.net
+- Email: yonle@lecturify.net
 - Twitter: [@yonlecoder](https://twitter.com/yonlecoder)
 - `#yonle` at `irc.lecturify.net`
 - [`yonle@conference.lecturify.net`](xmpp:yonle@conference.lecturify.net) at Jabber/XMPP
