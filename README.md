@@ -1,5 +1,7 @@
+> *When you run my code, I want you to hack the code.*
+
 ## Yonle
-Self taught developer from Indonesia. I create random stuffs and then publishing it.
+Self taught developer from Indonesia. I create random stuffs and then publishing it for everyone.
 
 ## Where to find me
 - Telegram: [@yonlecoder](https://t.me/yonlecoder)
