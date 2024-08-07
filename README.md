@@ -1,4 +1,4 @@
-> *When you run my code, I want you to hack the code.*
+When you run my code, I want you to hack the code.
 
 ## Yonle
 Self taught developer from Indonesia. I create random stuffs and then publishing it for everyone.
