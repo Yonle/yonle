@@ -16,6 +16,6 @@ Self taught developer from Indonesia. I create random stuffs and then publishing
 ## Donation Box
 You are welcome to send me donation if wanted.
 - Liberapay: Coming Soon
-- Lightning (BTC): humidprocess01@walletofsatoshi.com
+- Lightning (BTC): fewerfight14@walletofsatoshi.com
 - Saweria: [@yonle](https://saweria.co/yonle)
 - Trakteer: [@yonle](https://trakteer.id/yonle)
