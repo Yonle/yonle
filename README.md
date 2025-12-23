@@ -16,6 +16,7 @@ Self taught developer from Indonesia. I create random stuffs and then publishing
 ## Donation Box
 You are welcome to send me donation if wanted.
 - Monero: `88nfEFt8dyaSiwmfSZYQ7pUPGU8tv2QdiBvWpSYAb1c5cgnX41VBfrLXhBfZvsCLoya1wBLJz6yDPgNRJU34617Z3PwtDrp`
+- NANO: `nano_3bxfgnywibugmynd6jnamzzd1841ratq48njh9uecs9p87dgc1gsn7s3n8nc`
 - Lightning (BTC): clumsyswing50@minibits.cash
 - Saweria: [@yonle](https://saweria.co/yonle)
 - Trakteer: [@yonle](https://trakteer.id/yonle)
