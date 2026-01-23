@@ -20,4 +20,4 @@ You are welcome to send me donation if wanted.
 - ETH: `0xd720e455ae761e7ff749d1d2eee18c37f853c788`
 - Lightning (BTC): clumsyswing50@minibits.cash
 - Saweria: [@yonle](https://saweria.co/yonle)
-- Trakteer: [@yonle](https://trakteer.id/yonle)
+- Trakteer: [@yonle](https://trakteer.id/yonle/tip)
