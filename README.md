@@ -4,14 +4,15 @@ When you run my code, I want you to hack it.
 Self taught developer from Indonesia. I create random stuffs and then publishing it for everyone.
 
 ## Where to find me
-- Telegram: [@yonlecoder](https://t.me/yonlecoder)
+- Telegram: [@yonle](https://t.me/yonle)
 - Fediverse: [yonle@waltuh.cyou](https://fedinet.waltuh.cyou/yonle)
 - XMPP: yonle@lecturify.net
 - Email: yonle@duck.com
+- Discord: yonlecoder
+- Stoat/Revolt: Yonle#0531 
 - Twitter: [@yonlecoder](https://twitter.com/yonlecoder) [Not focused]
 - `#yonle` at `irc.lecturify.net`
 - [`yonle@conference.lecturify.net`](xmpp:yonle@conference.lecturify.net) at Jabber/XMPP
-- Discord: [Invite Link](https://discord.com/invite/GkGSpNEtDU)
 
 ## Donation Box
 You are welcome to send me donation if wanted.
